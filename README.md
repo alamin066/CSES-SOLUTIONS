@@ -1,1 +1,1 @@
-# CSES-SOLUTIONS
+# CSES-SOLUTIONS Introductory
